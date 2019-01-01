@@ -74,7 +74,6 @@
     <li data-target="#carousel-img-orlando" data-slide-to="1"></li>
     <li data-target="#carousel-img-orlando" data-slide-to="2"></li>
   </ol>
-
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
@@ -351,9 +350,7 @@
     </div>
     </div>
 </footer> <!-- Fim - Rodapé -->
-
-
-    <!-- Jquery -->
+<!-- Jquery -->
     <script src="js/jquery.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
 </body>
